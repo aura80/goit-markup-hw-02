@@ -37,6 +37,7 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     /* text-align: left; */
+    font-style: normal;
 }
 
 .contact .contact-adress:hover, .contact .contact-adress:focus {
@@ -110,6 +111,8 @@ body {
     letter-spacing: 0.03em;
     /* text-align: left; */
     color: #4D5AE5;
+    font-family: "Raleway", sans-serif;
+    text-transform: uppercase;
 }
 
 .studio-nav {
@@ -120,6 +123,8 @@ body {
     line-height: 1.17;
     letter-spacing: 0.03em;
     /* text-align: left; */
+    font-family: "Raleway", sans-serif;
+    text-transform: uppercase;
 }
 
 .qualities-h2 {
