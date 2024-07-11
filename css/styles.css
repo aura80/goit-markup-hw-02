@@ -1,6 +1,8 @@
 body {
     font-family: Roboto, Raleway, sans-serif;
-    color: #2E2F42;
+    /* color: #2E2F42; */
+    color: #434455;
+    background-color: #FFFFFF;
 }
 
 #navigation .nav-links {
@@ -128,6 +130,7 @@ body {
     line-height: 1.2;
     letter-spacing: 0.02em;
     text-align: left;
+    /* color: #2E2F42; */
 }
 
 .qualities-p {
@@ -138,6 +141,7 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: left;
+    color: #434455;
 }
 
 .ourteam-h2 {
