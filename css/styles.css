@@ -79,15 +79,16 @@ body {
 }
 
 .service-button {
-    font-family: Roboto;
-        font-size: 16px;
-        font-weight: 500;
-        line-height: 1.5;
-        letter-spacing: 0.04em;
-        text-align: left;
-        background-color: #4D5AE5;
-        color: #ffff;
-        cursor: pointer;
+    font-family: "Roboto", sans-serif;;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    text-align: left;
+    background-color: #4D5AE5;
+    color: #ffff;
+    cursor: pointer;
+    
     width: Hug (169px)px;
     height: Hug (56px)px;
     top: 20px;
