@@ -5,6 +5,10 @@ body {
     background-color: #FFFFFF;
 }
 
+#navigation .nav-links.first {
+    color: #2e2f42;
+}
+
 #navigation .nav-links {
     text-decoration: none;
     font-family: Roboto;
@@ -13,7 +17,6 @@ body {
     /* line-height: 24px; */
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2e2f42;
 }
 
 #navigation .nav-links:hover, 
@@ -44,7 +47,6 @@ body {
     /* line-height: 24px; */
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
 }
 
 .contact .contact-adress:hover, .contact .contact-adress:focus {
