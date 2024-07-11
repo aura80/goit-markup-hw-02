@@ -13,7 +13,7 @@ body {
     /* line-height: 24px; */
     line-height: 1.5;
     letter-spacing: 0.02em;
-    /* text-align: left; */
+    color: #2e2f42;
 }
 
 #navigation .nav-links:hover, 
@@ -29,7 +29,7 @@ body {
     text-decoration: underline;
 }
 
-.contact {
+.header-background .contact {
     font-style: normal;
 }
 
@@ -44,7 +44,7 @@ body {
     /* line-height: 24px; */
     line-height: 1.5;
     letter-spacing: 0.02em;
-    /* text-align: left; */
+    color: #434455;
 }
 
 .contact .contact-adress:hover, .contact .contact-adress:focus {
