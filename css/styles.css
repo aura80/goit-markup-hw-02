@@ -123,7 +123,7 @@ body {
     text-transform: uppercase;
 }
 
-.qualities-h2 {
+.qualities-hdoi {
     font-family: Roboto;
     font-size: 36px;
     font-weight: 700;
@@ -132,7 +132,7 @@ body {
     text-align: center;
 }
 
-.qualities-h3 {
+.qualities-htrei {
     font-family: Roboto;
     font-size: 20px;
     font-weight: 500;
@@ -154,7 +154,7 @@ body {
     color: #434455;
 }
 
-.ourteam-h2 {
+.ourteam-hdoi {
     font-family: Roboto;
     font-size: 36px;
     font-weight: 700;
@@ -228,7 +228,7 @@ body {
     color: #F4F4FD;
 }
 
-.portfolio-section-h2 {
+.portfolio-section-hdoi {
     font-family: Roboto;
     font-size: 36px;
     font-weight: 700;
