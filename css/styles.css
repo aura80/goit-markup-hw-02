@@ -5,7 +5,7 @@ body {
     background-color: #FFFFFF;
 }
 
-#navigation .nav-links.first {
+#navigation .first-nav-links {
     color: #2e2f42;
 }
 
@@ -36,7 +36,7 @@ body {
     font-style: normal;
 }
 
-.contact .first-contact-from-list {
+.contact .first-contact-from-list .contact-adress {
     color: #434455;
 }
 
