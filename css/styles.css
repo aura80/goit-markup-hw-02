@@ -67,7 +67,7 @@ body {
     opacity: 0px;
 }
 
-.effective-h1 {
+.effective-hunu {
     font-family: Roboto;
     font-size: 56px;
     font-weight: 700;
@@ -95,6 +95,12 @@ body {
     border-radius: 5px;
     cursor: pointer;
     /* padding: 100px; */
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.04em;
+    text-align: left;
 }
 
 .service-button:hover, .service-button:focus, .service-button:active {
