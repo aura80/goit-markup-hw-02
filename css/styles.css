@@ -5,7 +5,7 @@ body {
     background-color: #FFFFFF;
 }
 
-#navigation > ul > li > a {
+.header-background #navigation > ul .first-nav-links > a {
     color: #2e2f42;
 }
 
