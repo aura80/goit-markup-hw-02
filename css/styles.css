@@ -24,11 +24,6 @@ body {
     color: #404BBF;
 }
 
-/* .header-background #navigation .first-nav-links .nav-links:hover,
-.header-background #navigation .first-nav-links .nav-links:focus {
-    color: #404BBF;
-} */
-
 #navigation .nav-links:active {
     color: #404BBF;
 }
@@ -54,7 +49,7 @@ body {
     letter-spacing: 0.02em;
 }
 
-.contact .contact-adress:hover, .contact .contact-adress:focus {
+.contact-adress:hover, .contact-adress:focus {
     color: #404BBF;
 }
 
