@@ -79,6 +79,15 @@ body {
 }
 
 .service-button {
+    font-family: Roboto;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        text-align: left;
+        background-color: #4D5AE5;
+        color: #ffff;
+        cursor: pointer;
     width: Hug (169px)px;
     height: Hug (56px)px;
     top: 20px;
@@ -87,20 +96,11 @@ body {
     gap: 10px;
     border-radius: 4px 0px 0px 0px;
     opacity: 0px;
-    color: #ffff;
-    background-color: #4D5AE5;
     box-shadow: 0px 4px 4px 0px #00000026;
     animation-duration: 0ms;
     border: 1px solid #9747FF;
     border-radius: 5px;
-    cursor: pointer;
     /* padding: 100px; */
-    font-family: Roboto;
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.04em;
-    text-align: left;
 }
 
 .service-button:hover, .service-button:focus, .service-button:active {
