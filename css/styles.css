@@ -19,8 +19,13 @@ body {
     letter-spacing: 0.02em;
 }
 
-#navigation .nav-links:hover, 
-#navigation .nav-links:focus {
+.header-background #navigation .nav-links:hover, 
+.header-background #navigation .nav-links:focus {
+    color: #404BBF;
+}
+
+.header-background #navigation .first-nav-links .nav-links:hover,
+.header-background #navigation .first-nav-links .nav-links:focus {
     color: #404BBF;
 }
 
