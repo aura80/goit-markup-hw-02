@@ -24,10 +24,10 @@ body {
     color: #404BBF;
 }
 
-.header-background #navigation .first-nav-links .nav-links:hover,
+/* .header-background #navigation .first-nav-links .nav-links:hover,
 .header-background #navigation .first-nav-links .nav-links:focus {
     color: #404BBF;
-}
+} */
 
 #navigation .nav-links:active {
     color: #404BBF;
