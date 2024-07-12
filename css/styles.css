@@ -215,7 +215,7 @@ body {
 }
 
 .team-section .team-social-list {
-    list-style-type: none;
+    /* list-style-type: none;-------- */
 }
 
 /* .hover-logo:hover {
