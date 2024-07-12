@@ -178,13 +178,13 @@ body {
     background-color: #FFFFFF;
 }
 
-.list-item-ourteam {
+/* .list-item-ourteam { */
     /* box-shadow: 0px 2px 1px 0px #2E2F4214;
     
     box-shadow: 0px 1px 1px 0px #2E2F4229;
     
     box-shadow: 0px 1px 6px 0px #2E2F4214; */
-}
+/* } */
 
 /* .team-section .list-item-ourteam .team-social-list {
     
@@ -214,9 +214,9 @@ body {
     background-color: #F4F4FD;
 }
 
-.team-section .team-social-list {
+/* .team-section .team-social-list { */
     /* list-style-type: none;-------- */
-}
+/* } */
 
 /* .hover-logo:hover {
     background-color: red;
