@@ -11,7 +11,7 @@ body {
 
 #navigation .nav-links {
     text-decoration: none;
-    font-family: Roboto;
+    font-family: "Roboto";
     font-size: 16px;
     font-weight: 500;
     /* line-height: 24px; */
@@ -41,7 +41,7 @@ body {
 }
 
 .contact .contact-adress {
-    font-family: Roboto;
+    font-family: "Roboto";
     font-size: 16px;
     font-weight: 400;
     /* line-height: 24px; */
@@ -68,7 +68,7 @@ body {
 }
 
 .effective-hunu {
-    font-family: Roboto;
+    font-family: "Roboto";
     font-size: 56px;
     font-weight: 700;
     /* line-height: 60px; */
@@ -132,7 +132,7 @@ body {
 }
 
 .qualities-hdoi {
-    font-family: Roboto;
+    font-family: "Roboto";
     font-size: 36px;
     font-weight: 700;
     line-height: 1.1;
@@ -141,7 +141,7 @@ body {
 }
 
 .qualities-htrei {
-    font-family: Roboto;
+    font-family: "Roboto";
     font-size: 20px;
     font-weight: 500;
     /* line-height: 24px; */
@@ -152,7 +152,7 @@ body {
 }
 
 .qualities-p {
-    font-family: Roboto;
+    font-family: "Roboto";
     font-size: 16px;
     /* font-weight: 400; */
     /* line-height: 24px; */
@@ -163,7 +163,7 @@ body {
 }
 
 .ourteam-hdoi {
-    font-family: Roboto;
+    font-family: "Roboto";
     font-size: 36px;
     font-weight: 700;
     /* line-height: 40px; */
@@ -191,7 +191,7 @@ body {
 } */
 
 .team-section > ul > li > h3 {
-    font-family: Roboto;
+    font-family: "Roboto";
     font-size: 20px;
     font-weight: 500;
     /* line-height: 24px; */
@@ -201,7 +201,7 @@ body {
 }
 
 .team-section > ul > li > p {
-    font-family: Roboto;
+    font-family: "Roboto";
     font-size: 16px;
     /* font-weight: 400; */
     /* line-height: 24px; */
@@ -224,7 +224,7 @@ body {
 } */
 
 .portfolio-section-hdoi {
-    font-family: Roboto;
+    font-family: "Roboto";
     font-size: 36px;
     font-weight: 700;
     /* line-height: 40px; */
@@ -236,7 +236,7 @@ body {
 }
 
 .portfolio-section-ul h3 {
-    font-family: Roboto;
+    font-family: "Roboto";
     font-size: 20px;
     font-weight: 500;
     /* line-height: 24px; */
@@ -247,7 +247,7 @@ body {
 }
 
 .portfolio-section-ul p {
-    font-family: Roboto;
+    font-family: "Roboto";
     font-size: 16px;
     /* font-weight: 400; */
     /* line-height: 24px; */
@@ -265,7 +265,7 @@ body {
 }
 
 .footer-paragraph {
-    font-family: Roboto;
+    font-family: "Roboto";
     font-size: 16px;
     /* font-weight: 400; */
     /* line-height: 24px; */
